@@ -1,0 +1,700 @@
+{
+  "variables": [
+    {
+      "name": "Spawn",
+      "type": "number",
+      "keyFrames": {
+        "e5793cd6-d57c-4540-b16a-d5abea37e548": 19.999995544879106,
+        "cb099a1f-9fc8-46a4-9c51-4eb3020cbfb8": 23,
+        "f06cf619-6420-45ba-bb45-fcf0f636fa32": 40,
+        "ed286152-ea44-4693-b2f8-a1e2db81fd97": 20,
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": 45,
+        "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c": 35,
+        "ffc6d680-86b3-45e4-a33a-dba0eeb7fab0": 30,
+        "c14efde3-cf4f-4fb8-a176-0154dcfb2e06": 10,
+        "afa6f7ad-8590-4b40-a280-b37ca826a74e": 48,
+        "e0b12db6-bfc9-40d6-848c-108c09fd74d7": 55,
+        "88f56937-fa48-41bd-b651-f37cfe611693": 65,
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": 75,
+        "1dea36c6-c0ef-437a-a53d-32d3e1e8df2e": 85,
+        "e6ca5ec3-8396-400f-b52f-9bf80a65607a": 60,
+        "b2b8ba6d-42c4-429c-aa6e-97118eb9d293": 90,
+        "d50cd521-2b5d-4a40-a75f-edadea4a0279": 105
+      },
+      "minimum": 0,
+      "maximum": 250
+    }
+  ],
+  "transformations": [
+    {
+      "name": "scale_Platform",
+      "type": "scale",
+      "element": "Platform",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": {
+            "x": 1.02,
+            "y": 1.02
+          },
+          "transition": "step"
+        },
+        "e5793cd6-d57c-4540-b16a-d5abea37e548": {
+          "name": "e5793cd6-d57c-4540-b16a-d5abea37e548",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "cb099a1f-9fc8-46a4-9c51-4eb3020cbfb8": {
+          "name": "cb099a1f-9fc8-46a4-9c51-4eb3020cbfb8",
+          "value": {
+            "x": 1.02,
+            "y": 1.02
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "center"
+    },
+    {
+      "name": "opacity_Platform",
+      "type": "opacity",
+      "element": "Platform",
+      "variable": "Spawn",
+      "frames": {
+        "e5793cd6-d57c-4540-b16a-d5abea37e548": {
+          "name": "e5793cd6-d57c-4540-b16a-d5abea37e548",
+          "value": 1,
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": 0,
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 0
+    },
+    {
+      "name": "scale_LeftPanel",
+      "type": "scale",
+      "element": "LeftPanel",
+      "variable": "Spawn",
+      "frames": {
+        "cb099a1f-9fc8-46a4-9c51-4eb3020cbfb8": {
+          "name": "cb099a1f-9fc8-46a4-9c51-4eb3020cbfb8",
+          "value": {
+            "x": 0,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c": {
+          "name": "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "left"
+    },
+    {
+      "name": "scale_RightPanel",
+      "type": "scale",
+      "element": "RightPanel",
+      "variable": "Spawn",
+      "frames": {
+        "f06cf619-6420-45ba-bb45-fcf0f636fa32": {
+          "name": "f06cf619-6420-45ba-bb45-fcf0f636fa32",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "ffc6d680-86b3-45e4-a33a-dba0eeb7fab0": {
+          "name": "ffc6d680-86b3-45e4-a33a-dba0eeb7fab0",
+          "value": {
+            "x": 0,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 1
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "right"
+    },
+    {
+      "name": "scale_CentarPanel",
+      "type": "scale",
+      "element": "CentarPanel",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "c14efde3-cf4f-4fb8-a176-0154dcfb2e06": {
+          "name": "c14efde3-cf4f-4fb8-a176-0154dcfb2e06",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "ed286152-ea44-4693-b2f8-a1e2db81fd97": {
+          "name": "ed286152-ea44-4693-b2f8-a1e2db81fd97",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Logo",
+      "type": "scale",
+      "element": "Logo",
+      "variable": "Spawn",
+      "frames": {
+        "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c": {
+          "name": "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c",
+          "value": {
+            "x": 2.5,
+            "y": 2.5
+          },
+          "transition": "linear"
+        },
+        "afa6f7ad-8590-4b40-a280-b37ca826a74e": {
+          "name": "afa6f7ad-8590-4b40-a280-b37ca826a74e",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": {
+          "name": "73e87c20-436a-4d1e-bbad-3f06f8508147",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 2,
+            "y": 2
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "center"
+    },
+    {
+      "name": "opacity_Logo",
+      "type": "opacity",
+      "element": "Logo",
+      "variable": "Spawn",
+      "frames": {
+        "$min": {
+          "name": "$min",
+          "value": 0,
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": {
+          "name": "73e87c20-436a-4d1e-bbad-3f06f8508147",
+          "value": 1,
+          "transition": "linear"
+        },
+        "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c": {
+          "name": "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c",
+          "value": 0,
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 0
+    },
+    {
+      "name": "scale_Category1",
+      "type": "scale",
+      "element": "Category1",
+      "variable": "Spawn",
+      "frames": {
+        "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c": {
+          "name": "fdaa9b73-2f6c-45ec-b8ee-18e02206e08c",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": {
+          "name": "73e87c20-436a-4d1e-bbad-3f06f8508147",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Category2",
+      "type": "scale",
+      "element": "Category2",
+      "variable": "Spawn",
+      "frames": {
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": {
+          "name": "73e87c20-436a-4d1e-bbad-3f06f8508147",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "e0b12db6-bfc9-40d6-848c-108c09fd74d7": {
+          "name": "e0b12db6-bfc9-40d6-848c-108c09fd74d7",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Category3",
+      "type": "scale",
+      "element": "Category3",
+      "variable": "Spawn",
+      "frames": {
+        "e0b12db6-bfc9-40d6-848c-108c09fd74d7": {
+          "name": "e0b12db6-bfc9-40d6-848c-108c09fd74d7",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "88f56937-fa48-41bd-b651-f37cfe611693": {
+          "name": "88f56937-fa48-41bd-b651-f37cfe611693",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Category4",
+      "type": "scale",
+      "element": "Category4",
+      "variable": "Spawn",
+      "frames": {
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": {
+          "name": "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "88f56937-fa48-41bd-b651-f37cfe611693": {
+          "name": "88f56937-fa48-41bd-b651-f37cfe611693",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Category5",
+      "type": "scale",
+      "element": "Category5",
+      "variable": "Spawn",
+      "frames": {
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": {
+          "name": "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "1dea36c6-c0ef-437a-a53d-32d3e1e8df2e": {
+          "name": "1dea36c6-c0ef-437a-a53d-32d3e1e8df2e",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Event1",
+      "type": "scale",
+      "element": "Event1",
+      "variable": "Spawn",
+      "frames": {
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "e6ca5ec3-8396-400f-b52f-9bf80a65607a": {
+          "name": "e6ca5ec3-8396-400f-b52f-9bf80a65607a",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "73e87c20-436a-4d1e-bbad-3f06f8508147": {
+          "name": "73e87c20-436a-4d1e-bbad-3f06f8508147",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Event2",
+      "type": "scale",
+      "element": "Event2",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "e6ca5ec3-8396-400f-b52f-9bf80a65607a": {
+          "name": "e6ca5ec3-8396-400f-b52f-9bf80a65607a",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": {
+          "name": "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Match1",
+      "type": "scale",
+      "element": "Match1",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "e6ca5ec3-8396-400f-b52f-9bf80a65607a": {
+          "name": "e6ca5ec3-8396-400f-b52f-9bf80a65607a",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": {
+          "name": "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Match2",
+      "type": "scale",
+      "element": "Match2",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7": {
+          "name": "892fbbf0-08e3-4214-afdb-2b8a5b8cd6c7",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "b2b8ba6d-42c4-429c-aa6e-97118eb9d293": {
+          "name": "b2b8ba6d-42c4-429c-aa6e-97118eb9d293",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    },
+    {
+      "name": "scale_Match3",
+      "type": "scale",
+      "element": "Match3",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "d50cd521-2b5d-4a40-a75f-edadea4a0279": {
+          "name": "d50cd521-2b5d-4a40-a75f-edadea4a0279",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "b2b8ba6d-42c4-429c-aa6e-97118eb9d293": {
+          "name": "b2b8ba6d-42c4-429c-aa6e-97118eb9d293",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "transition": null,
+      "priority": 110,
+      "center": "top"
+    }
+  ],
+  "elements": []
+}

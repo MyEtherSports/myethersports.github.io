@@ -1,0 +1,356 @@
+<?xml version="1.0" standalone="no"?>
+<!--Generator: Gravit.io-->
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 320 220" width="320" height="220">
+  <defs>
+    <clipPath id="_clipPath_5xzXn1Gma8Hu4lg5VjCdY8Js1KbE8yP5">
+      <rect width="320" height="220"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_5xzXn1Gma8Hu4lg5VjCdY8Js1KbE8yP5)">
+    <g style="isolation:isolate" id="Platform">
+      <path d="M 20.64 12.5 L 298.36 12.5 C 302.577 12.5 306 15.923 306 20.14 L 306 195.86 C 306 200.077 302.577 203.5 298.36 203.5 L 20.64 203.5 C 16.423 203.5 13 200.077 13 195.86 L 13 20.14 C 13 15.923 16.423 12.5 20.64 12.5 Z" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-miterlimit="3"/>
+      <line x1="13.067" y1="42" x2="303.8" y2="42" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+      <g id="Buttons">
+        <g id="Button1">
+          <g id="icon" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 109.98 18 L 118.02 18 C 120.493 18 122.5 20.007 122.5 22.48 L 122.5 27.52 C 122.5 29.993 120.493 32 118.02 32 L 109.98 32 C 107.507 32 105.5 29.993 105.5 27.52 L 105.5 22.48 C 105.5 20.007 107.507 18 109.98 18 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 109.98 18 L 118.02 18 C 120.493 18 122.5 20.007 122.5 22.48 L 122.5 27.52 C 122.5 29.993 120.493 32 118.02 32 L 109.98 32 C 107.507 32 105.5 29.993 105.5 27.52 L 105.5 22.48 C 105.5 20.007 107.507 18 109.98 18 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="name">
+            <line x1="105.5" y1="36" x2="122.5" y2="36" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <rect x="100.5" y="12.5" width="27" height="29.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Button2">
+          <g id="icon" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 137.48 18 L 145.52 18 C 147.993 18 150 20.007 150 22.48 L 150 27.52 C 150 29.993 147.993 32 145.52 32 L 137.48 32 C 135.007 32 133 29.993 133 27.52 L 133 22.48 C 133 20.007 135.007 18 137.48 18 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 137.48 18 L 145.52 18 C 147.993 18 150 20.007 150 22.48 L 150 27.52 C 150 29.993 147.993 32 145.52 32 L 137.48 32 C 135.007 32 133 29.993 133 27.52 L 133 22.48 C 133 20.007 135.007 18 137.48 18 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="name">
+            <line x1="133" y1="36" x2="150" y2="36" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <rect x="128" y="12.5" width="27" height="29.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Button3">
+          <g id="icon" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 164.98 18 L 173.02 18 C 175.493 18 177.5 20.007 177.5 22.48 L 177.5 27.52 C 177.5 29.993 175.493 32 173.02 32 L 164.98 32 C 162.507 32 160.5 29.993 160.5 27.52 L 160.5 22.48 C 160.5 20.007 162.507 18 164.98 18 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 164.98 18 L 173.02 18 C 175.493 18 177.5 20.007 177.5 22.48 L 177.5 27.52 C 177.5 29.993 175.493 32 173.02 32 L 164.98 32 C 162.507 32 160.5 29.993 160.5 27.52 L 160.5 22.48 C 160.5 20.007 162.507 18 164.98 18 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="name">
+            <line x1="160.5" y1="36" x2="177.5" y2="36" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <rect x="155.5" y="12.5" width="27" height="29.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Button4">
+          <g id="icon" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 192.48 18 L 200.52 18 C 202.993 18 205 20.007 205 22.48 L 205 27.52 C 205 29.993 202.993 32 200.52 32 L 192.48 32 C 190.007 32 188 29.993 188 27.52 L 188 22.48 C 188 20.007 190.007 18 192.48 18 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 192.48 18 L 200.52 18 C 202.993 18 205 20.007 205 22.48 L 205 27.52 C 205 29.993 202.993 32 200.52 32 L 192.48 32 C 190.007 32 188 29.993 188 27.52 L 188 22.48 C 188 20.007 190.007 18 192.48 18 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="name">
+            <line x1="188" y1="36" x2="205" y2="36" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <rect x="183" y="12.5" width="27" height="29.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Button5">
+          <g id="icon" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 219.98 18 L 228.02 18 C 230.493 18 232.5 20.007 232.5 22.48 L 232.5 27.52 C 232.5 29.993 230.493 32 228.02 32 L 219.98 32 C 217.507 32 215.5 29.993 215.5 27.52 L 215.5 22.48 C 215.5 20.007 217.507 18 219.98 18 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 219.98 18 L 228.02 18 C 230.493 18 232.5 20.007 232.5 22.48 L 232.5 27.52 C 232.5 29.993 230.493 32 228.02 32 L 219.98 32 C 217.507 32 215.5 29.993 215.5 27.52 L 215.5 22.48 C 215.5 20.007 217.507 18 219.98 18 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="name">
+            <line x1="215.5" y1="36" x2="232.5" y2="36" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <rect x="210.5" y="12.5" width="27" height="29.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+      </g>
+      <line x1="13.067" y1="180" x2="305.5" y2="180" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+      <g id="LeftLinks">
+        <g id="row1">
+          <line x1="19.5" y1="187.5" x2="68.5" y2="187.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="row2">
+          <line x1="19.5" y1="194.5" x2="80.5" y2="194.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+      </g>
+      <g id="LeftPanel">
+        <g id="Categories">
+          <g id="Category1">
+            <g id="Outline">
+              <rect x="13" y="52" width="87.5" height="12" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Icon" stroke-linecap="square" stroke-miterlimit="3">
+              <path d="M 18.02 55 L 23.48 55 C 24.043 55 24.5 55.457 24.5 56.02 L 24.5 59.98 C 24.5 60.543 24.043 61 23.48 61 L 18.02 61 C 17.457 61 17 60.543 17 59.98 L 17 56.02 C 17 55.457 17.457 55 18.02 55 Z" stroke="none" fill="#FFFFFF"/>
+              <path d="M 18.02 55 L 23.48 55 C 24.043 55 24.5 55.457 24.5 56.02 L 24.5 59.98 C 24.5 60.543 24.043 61 23.48 61 L 18.02 61 C 17.457 61 17 60.543 17 59.98 L 17 56.02 C 17 55.457 17.457 55 18.02 55 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+            </g>
+            <g id="Name">
+              <line x1="29.5" y1="58" x2="74" y2="58" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Count">
+              <path d="M 88.891 55 L 96.109 55 C 97.705 55 99 56.295 99 57.891 L 99 58.109 C 99 59.705 97.705 61 96.109 61 L 88.891 61 C 87.295 61 86 59.705 86 58.109 L 86 57.891 C 86 56.295 87.295 55 88.891 55 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Astetics">
+              <path d=" M 96.931 51.95 Q 99.072 52.251 100.5 51.95 L 100.5 63.975 Q 92.648 64.025 89 63.975 C 93.441 61.77 96.812 58.013 96.931 51.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+          <g id="Category2">
+            <g id="Outline">
+              <rect x="13" y="64" width="87.5" height="12" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Icon" stroke-linecap="square" stroke-miterlimit="3">
+              <path d="M 18.02 67 L 23.48 67 C 24.043 67 24.5 67.457 24.5 68.02 L 24.5 71.98 C 24.5 72.543 24.043 73 23.48 73 L 18.02 73 C 17.457 73 17 72.543 17 71.98 L 17 68.02 C 17 67.457 17.457 67 18.02 67 Z" stroke="none" fill="#FFFFFF"/>
+              <path d="M 18.02 67 L 23.48 67 C 24.043 67 24.5 67.457 24.5 68.02 L 24.5 71.98 C 24.5 72.543 24.043 73 23.48 73 L 18.02 73 C 17.457 73 17 72.543 17 71.98 L 17 68.02 C 17 67.457 17.457 67 18.02 67 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+            </g>
+            <g id="Name">
+              <line x1="29.5" y1="70" x2="74" y2="70" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Count">
+              <path d="M 88.891 67 L 96.109 67 C 97.705 67 99 68.295 99 69.891 L 99 70.109 C 99 71.705 97.705 73 96.109 73 L 88.891 73 C 87.295 73 86 71.705 86 70.109 L 86 69.891 C 86 68.295 87.295 67 88.891 67 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Astetics">
+              <path d=" M 96.931 63.95 Q 99.072 64.251 100.5 63.95 L 100.5 75.975 Q 92.648 76.025 89 75.975 C 93.441 73.77 96.812 70.013 96.931 63.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+          <g id="Category3">
+            <g id="Outline">
+              <rect x="13" y="76" width="87.5" height="12" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Icon" stroke-linecap="square" stroke-miterlimit="3">
+              <path d="M 18.02 79 L 23.48 79 C 24.043 79 24.5 79.457 24.5 80.02 L 24.5 83.98 C 24.5 84.543 24.043 85 23.48 85 L 18.02 85 C 17.457 85 17 84.543 17 83.98 L 17 80.02 C 17 79.457 17.457 79 18.02 79 Z" stroke="none" fill="#FFFFFF"/>
+              <path d="M 18.02 79 L 23.48 79 C 24.043 79 24.5 79.457 24.5 80.02 L 24.5 83.98 C 24.5 84.543 24.043 85 23.48 85 L 18.02 85 C 17.457 85 17 84.543 17 83.98 L 17 80.02 C 17 79.457 17.457 79 18.02 79 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+            </g>
+            <g id="Name">
+              <line x1="29.5" y1="82" x2="74" y2="82" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Count">
+              <path d="M 88.891 79 L 96.109 79 C 97.705 79 99 80.295 99 81.891 L 99 82.109 C 99 83.705 97.705 85 96.109 85 L 88.891 85 C 87.295 85 86 83.705 86 82.109 L 86 81.891 C 86 80.295 87.295 79 88.891 79 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Astetics">
+              <path d=" M 96.931 75.95 Q 99.072 76.251 100.5 75.95 L 100.5 87.975 Q 92.648 88.025 89 87.975 C 93.441 85.77 96.812 82.013 96.931 75.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+          <g id="Category4">
+            <g id="Outline">
+              <rect x="13" y="88" width="87.5" height="12" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Icon" stroke-linecap="square" stroke-miterlimit="3">
+              <path d="M 18.02 91 L 23.48 91 C 24.043 91 24.5 91.457 24.5 92.02 L 24.5 95.98 C 24.5 96.543 24.043 97 23.48 97 L 18.02 97 C 17.457 97 17 96.543 17 95.98 L 17 92.02 C 17 91.457 17.457 91 18.02 91 Z" stroke="none" fill="#FFFFFF"/>
+              <path d="M 18.02 91 L 23.48 91 C 24.043 91 24.5 91.457 24.5 92.02 L 24.5 95.98 C 24.5 96.543 24.043 97 23.48 97 L 18.02 97 C 17.457 97 17 96.543 17 95.98 L 17 92.02 C 17 91.457 17.457 91 18.02 91 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+            </g>
+            <g id="Name">
+              <line x1="29.5" y1="94" x2="74" y2="94" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Count">
+              <path d="M 88.891 91 L 96.109 91 C 97.705 91 99 92.295 99 93.891 L 99 94.109 C 99 95.705 97.705 97 96.109 97 L 88.891 97 C 87.295 97 86 95.705 86 94.109 L 86 93.891 C 86 92.295 87.295 91 88.891 91 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Astetics">
+              <path d=" M 96.931 87.95 Q 99.072 88.251 100.5 87.95 L 100.5 99.975 Q 92.648 100.025 89 99.975 C 93.441 97.77 96.812 94.013 96.931 87.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+          <g id="Category5">
+            <g id="Outline">
+              <rect x="13" y="100" width="87.5" height="12" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Icon" stroke-linecap="square" stroke-miterlimit="3">
+              <path d="M 18.02 103 L 23.48 103 C 24.043 103 24.5 103.457 24.5 104.02 L 24.5 107.98 C 24.5 108.543 24.043 109 23.48 109 L 18.02 109 C 17.457 109 17 108.543 17 107.98 L 17 104.02 C 17 103.457 17.457 103 18.02 103 Z" stroke="none" fill="#FFFFFF"/>
+              <path d="M 18.02 103 L 23.48 103 C 24.043 103 24.5 103.457 24.5 104.02 L 24.5 107.98 C 24.5 108.543 24.043 109 23.48 109 L 18.02 109 C 17.457 109 17 108.543 17 107.98 L 17 104.02 C 17 103.457 17.457 103 18.02 103 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+            </g>
+            <g id="Name">
+              <line x1="29.5" y1="106" x2="74" y2="106" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Count">
+              <path d="M 88.891 103 L 96.109 103 C 97.705 103 99 104.295 99 105.891 L 99 106.109 C 99 107.705 97.705 109 96.109 109 L 88.891 109 C 87.295 109 86 107.705 86 106.109 L 86 105.891 C 86 104.295 87.295 103 88.891 103 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Astetics">
+              <path d=" M 96.931 99.95 Q 99.072 100.251 100.5 99.95 L 100.5 111.975 Q 92.648 112.025 89 111.975 C 93.441 109.77 96.812 106.013 96.931 99.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+        </g>
+        <line x1="100.5" y1="14.5" x2="100.5" y2="179.5" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        <g id="LeftDiagonalButtons" fill="none" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3">
+          <path d=" M 18.5 42.4 L 28 42.4 L 22.75 52 L 13.25 52 L 18.5 42.4 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 28 42.4 L 37.5 42.4 L 32.25 52 L 22.75 52 L 28 42.4 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 37.5 42.4 L 99 42.4 L 93.75 52 L 32.25 52 L 37.5 42.4 Z " vector-effect="non-scaling-stroke"/>
+        </g>
+        <g id="Logo">
+          <g id="Outline">
+            <g id="Group">
+              <linearGradient id="_lgradient_0" x1="0%" y1="50%" x2="0.5597923203397669%" y2="149.99843315051535%">
+                <stop offset="0%" stop-opacity="1" stop-color="rgb(255,255,255)"/>
+                <stop offset="100%" stop-opacity="1" stop-color="rgb(244,244,244)"/>
+              </linearGradient>
+              <path d=" M 45.09 25.372 L 50.536 16.647 C 50.57 16.592 50.625 16.592 50.659 16.648 L 54.231 22.519 C 54.264 22.575 54.32 22.575 54.356 22.521 L 56.057 19.9 C 56.092 19.845 56.149 19.846 56.183 19.901 L 57.807 22.52 C 57.841 22.575 57.896 22.575 57.929 22.519 L 61.501 16.648 C 61.535 16.592 61.59 16.592 61.623 16.647 L 66.983 25.371 C 67.017 25.426 66.999 25.498 66.943 25.531 L 56.222 31.878 C 56.166 31.911 56.076 31.912 56.02 31.879 L 45.129 25.53 C 45.073 25.498 45.056 25.427 45.09 25.372 Z  M 45.676 25.213 L 50.54 17.345 C 50.574 17.29 50.628 17.29 50.662 17.345 L 54.234 23.242 C 54.268 23.298 54.325 23.299 54.361 23.246 L 56.055 20.781 C 56.091 20.728 56.151 20.728 56.188 20.781 L 57.805 23.129 C 57.842 23.182 57.899 23.181 57.933 23.126 L 61.504 17.345 C 61.538 17.29 61.592 17.29 61.625 17.346 L 66.314 25.212 C 66.347 25.268 66.329 25.34 66.273 25.373 L 56.225 31.335 C 56.17 31.368 56.079 31.369 56.023 31.336 L 45.716 25.372 C 45.66 25.339 45.642 25.268 45.676 25.213 Z " fill-rule="evenodd" fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="url(#_lgradient_0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+            <g id="Group">
+              <linearGradient id="_lgradient_1" x1="0%" y1="50%" x2="0.26164137817329153%" y2="149.99965771836034%">
+                <stop offset="0%" stop-opacity="1" stop-color="rgb(255,255,255)"/>
+                <stop offset="100%" stop-opacity="1" stop-color="rgb(243,243,243)"/>
+              </linearGradient>
+              <path d=" M 45.101 27.692 L 50.509 35.067 C 50.547 35.119 50.609 35.119 50.647 35.066 L 52.057 33.116 C 52.095 33.064 52.157 33.064 52.196 33.116 L 56.055 38.321 C 56.093 38.373 56.155 38.373 56.193 38.321 L 59.972 33.116 C 60.01 33.064 60.072 33.064 60.109 33.117 L 61.497 35.066 C 61.535 35.119 61.596 35.119 61.634 35.067 L 66.979 27.693 C 67.017 27.64 67.002 27.625 66.947 27.657 L 56.226 33.959 C 56.17 33.991 56.079 33.992 56.023 33.959 L 45.133 27.657 C 45.077 27.624 45.062 27.64 45.101 27.692 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="url(#_lgradient_1)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+            </g>
+          </g>
+        </g>
+        <line x1="15" y1="52" x2="99" y2="52" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        <g id="Pagination" stroke-linecap="square" stroke-miterlimit="3">
+          <path d="M 42.206 168 L 49.366 168 C 49.874 168 50.286 168.412 50.286 168.92 L 50.286 175.08 C 50.286 175.588 49.874 176 49.366 176 L 42.206 176 C 41.698 176 41.286 175.588 41.286 175.08 L 41.286 168.92 C 41.286 168.412 41.698 168 42.206 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 53.568 168 L 58.504 168 C 58.936 168 59.286 168.35 59.286 168.782 L 59.286 175.218 C 59.286 175.65 58.936 176 58.504 176 L 53.568 176 C 53.137 176 52.786 175.65 52.786 175.218 L 52.786 168.782 C 52.786 168.35 53.137 168 53.568 168 Z" stroke="none" fill="#FFFFFF"/>
+          <path d="M 53.568 168 L 58.504 168 C 58.936 168 59.286 168.35 59.286 168.782 L 59.286 175.218 C 59.286 175.65 58.936 176 58.504 176 L 53.568 176 C 53.137 176 52.786 175.65 52.786 175.218 L 52.786 168.782 C 52.786 168.35 53.137 168 53.568 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 62.706 168 L 69.866 168 C 70.374 168 70.786 168.412 70.786 168.92 L 70.786 175.08 C 70.786 175.588 70.374 176 69.866 176 L 62.706 176 C 62.198 176 61.786 175.588 61.786 175.08 L 61.786 168.92 C 61.786 168.412 62.198 168 62.706 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="RightPanel">
+        <g id="Event1">
+          <rect x="222.5" y="52" width="83" height="34" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <g id="EventImage">
+            <path d="M 232.685 55 L 259.815 55 C 262.125 55 264 56.875 264 59.185 L 264 77.815 C 264 80.125 262.125 82 259.815 82 L 232.685 82 C 230.375 82 228.5 80.125 228.5 77.815 L 228.5 59.185 C 228.5 56.875 230.375 55 232.685 55 Z" stroke="none" fill="#FFFFFF" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row1">
+            <line x1="268" y1="57.5" x2="289" y2="57.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row2">
+            <line x1="268" y1="63.5" x2="296" y2="64" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row3">
+            <line x1="268" y1="69.5" x2="294" y2="69.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row4">
+            <line x1="268" y1="75.5" x2="289" y2="75.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+        </g>
+        <g id="Event2">
+          <rect x="222.25" y="86" width="83" height="34" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <g id="EventImage">
+            <path d="M 232.435 89 L 259.565 89 C 261.875 89 263.75 90.875 263.75 93.185 L 263.75 111.815 C 263.75 114.125 261.875 116 259.565 116 L 232.435 116 C 230.125 116 228.25 114.125 228.25 111.815 L 228.25 93.185 C 228.25 90.875 230.125 89 232.435 89 Z" stroke="none" fill="#FFFFFF" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row1">
+            <line x1="267.75" y1="91.5" x2="288.75" y2="91.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row2">
+            <line x1="267.75" y1="97.5" x2="295.75" y2="98" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row3">
+            <line x1="267.75" y1="103.5" x2="293.75" y2="103.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="row4">
+            <line x1="267.75" y1="109.5" x2="288.75" y2="109.5" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+        </g>
+        <g id="Outline">
+          <line x1="223" y1="42" x2="223" y2="180" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="HSeparator">
+          <line x1="223" y1="52" x2="306" y2="52" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="RightDiagonalButtons" fill="none" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3">
+          <path d=" M 229.5 42.4 L 239 42.4 L 233.75 52 L 224.25 52 L 229.5 42.4 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 239 42.4 L 248.5 42.4 L 243.25 52 L 233.75 52 L 239 42.4 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 248.5 42.4 L 278.25 42.4 L 273 52 L 243.25 52 L 248.5 42.4 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 278.25 42.4 L 305.25 42.4 L 300 52 L 273 52 L 278.25 42.4 Z " vector-effect="non-scaling-stroke"/>
+        </g>
+        <g id="RightPagination" stroke-linecap="square" stroke-miterlimit="3">
+          <path d="M 249.42 168 L 256.58 168 C 257.088 168 257.5 168.412 257.5 168.92 L 257.5 175.08 C 257.5 175.588 257.088 176 256.58 176 L 249.42 176 C 248.912 176 248.5 175.588 248.5 175.08 L 248.5 168.92 C 248.5 168.412 248.912 168 249.42 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 260.782 168 L 265.718 168 C 266.15 168 266.5 168.35 266.5 168.782 L 266.5 175.218 C 266.5 175.65 266.15 176 265.718 176 L 260.782 176 C 260.35 176 260 175.65 260 175.218 L 260 168.782 C 260 168.35 260.35 168 260.782 168 Z" stroke="none" fill="#FFFFFF"/>
+          <path d="M 260.782 168 L 265.718 168 C 266.15 168 266.5 168.35 266.5 168.782 L 266.5 175.218 C 266.5 175.65 266.15 176 265.718 176 L 260.782 176 C 260.35 176 260 175.65 260 175.218 L 260 168.782 C 260 168.35 260.35 168 260.782 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 269.92 168 L 277.08 168 C 277.588 168 278 168.412 278 168.92 L 278 175.08 C 278 175.588 277.588 176 277.08 176 L 269.92 176 C 269.412 176 269 175.588 269 175.08 L 269 168.92 C 269 168.412 269.412 168 269.92 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="CentarPanel">
+        <g id="Match1">
+          <rect x="100.5" y="51.9" width="122.5" height="24" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <line x1="117" y1="51.9" x2="117" y2="75.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <g id="CategoryIcon">
+            <path d="M 106.393 63.9 L 112.357 63.9 C 113.54 63.9 114.5 64.86 114.5 66.043 L 114.5 70.757 C 114.5 71.94 113.54 72.9 112.357 72.9 L 106.393 72.9 C 105.21 72.9 104.25 71.94 104.25 70.757 L 104.25 66.043 C 104.25 64.86 105.21 63.9 106.393 63.9 Z" stroke="none" fill="#FFFFFF" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="Options">
+            <path d="M 107.25 54.9 L 111.5 54.9 C 113.156 54.9 114.5 56.244 114.5 57.9 L 114.5 57.9 C 114.5 59.556 113.156 60.9 111.5 60.9 L 107.25 60.9 C 105.594 60.9 104.25 59.556 104.25 57.9 L 104.25 57.9 C 104.25 56.244 105.594 54.9 107.25 54.9 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="TeamA" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 139.385 57.4 L 149.615 57.4 C 150.655 57.4 151.5 58.245 151.5 59.285 L 151.5 68.515 C 151.5 69.555 150.655 70.4 149.615 70.4 L 139.385 70.4 C 138.345 70.4 137.5 69.555 137.5 68.515 L 137.5 59.285 C 137.5 58.245 138.345 57.4 139.385 57.4 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 132.239 60.9 L 156.761 60.9 C 158.273 60.9 159.5 62.02 159.5 63.4 L 159.5 63.4 C 159.5 64.78 158.273 65.9 156.761 65.9 L 132.239 65.9 C 130.727 65.9 129.5 64.78 129.5 63.4 L 129.5 63.4 C 129.5 62.02 130.727 60.9 132.239 60.9 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="TeamB" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 180.385 57.4 L 190.615 57.4 C 191.655 57.4 192.5 58.245 192.5 59.285 L 192.5 68.515 C 192.5 69.555 191.655 70.4 190.615 70.4 L 180.385 70.4 C 179.345 70.4 178.5 69.555 178.5 68.515 L 178.5 59.285 C 178.5 58.245 179.345 57.4 180.385 57.4 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 173.239 61.4 L 197.761 61.4 C 199.273 61.4 200.5 62.52 200.5 63.9 L 200.5 63.9 C 200.5 65.28 199.273 66.4 197.761 66.4 L 173.239 66.4 C 171.727 66.4 170.5 65.28 170.5 63.9 L 170.5 63.9 C 170.5 62.52 171.727 61.4 173.239 61.4 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <path d=" M 218.5 51.9 Q 221.2 52.5 223 51.9 L 223 75.9 Q 213.1 76 208.5 75.9 C 214.1 71.5 218.35 64 218.5 51.9 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Match2">
+          <rect x="100.5" y="75.95" width="122.5" height="24" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <line x1="117" y1="75.95" x2="117" y2="99.95" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <g id="CategoryIcon">
+            <path d="M 106.393 87.95 L 112.357 87.95 C 113.54 87.95 114.5 88.91 114.5 90.093 L 114.5 94.807 C 114.5 95.99 113.54 96.95 112.357 96.95 L 106.393 96.95 C 105.21 96.95 104.25 95.99 104.25 94.807 L 104.25 90.093 C 104.25 88.91 105.21 87.95 106.393 87.95 Z" stroke="none" fill="#FFFFFF" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="Options">
+            <path d="M 107.25 78.95 L 111.5 78.95 C 113.156 78.95 114.5 80.294 114.5 81.95 L 114.5 81.95 C 114.5 83.606 113.156 84.95 111.5 84.95 L 107.25 84.95 C 105.594 84.95 104.25 83.606 104.25 81.95 L 104.25 81.95 C 104.25 80.294 105.594 78.95 107.25 78.95 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="TeamA" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 139.385 81.45 L 149.615 81.45 C 150.655 81.45 151.5 82.295 151.5 83.335 L 151.5 92.565 C 151.5 93.605 150.655 94.45 149.615 94.45 L 139.385 94.45 C 138.345 94.45 137.5 93.605 137.5 92.565 L 137.5 83.335 C 137.5 82.295 138.345 81.45 139.385 81.45 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 132.239 84.95 L 156.761 84.95 C 158.273 84.95 159.5 86.07 159.5 87.45 L 159.5 87.45 C 159.5 88.83 158.273 89.95 156.761 89.95 L 132.239 89.95 C 130.727 89.95 129.5 88.83 129.5 87.45 L 129.5 87.45 C 129.5 86.07 130.727 84.95 132.239 84.95 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="TeamB" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 180.385 81.45 L 190.615 81.45 C 191.655 81.45 192.5 82.295 192.5 83.335 L 192.5 92.565 C 192.5 93.605 191.655 94.45 190.615 94.45 L 180.385 94.45 C 179.345 94.45 178.5 93.605 178.5 92.565 L 178.5 83.335 C 178.5 82.295 179.345 81.45 180.385 81.45 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 173.239 85.45 L 197.761 85.45 C 199.273 85.45 200.5 86.57 200.5 87.95 L 200.5 87.95 C 200.5 89.33 199.273 90.45 197.761 90.45 L 173.239 90.45 C 171.727 90.45 170.5 89.33 170.5 87.95 L 170.5 87.95 C 170.5 86.57 171.727 85.45 173.239 85.45 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <path d=" M 218.5 75.95 Q 221.2 76.55 223 75.95 L 223 99.95 Q 213.1 100.05 208.5 99.95 C 214.1 95.55 218.35 88.05 218.5 75.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Match3">
+          <rect x="100.5" y="99.95" width="122.5" height="24" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <line x1="117" y1="99.95" x2="117" y2="123.95" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+          <g id="CategoryIcon">
+            <path d="M 106.393 111.95 L 112.357 111.95 C 113.54 111.95 114.5 112.91 114.5 114.093 L 114.5 118.807 C 114.5 119.99 113.54 120.95 112.357 120.95 L 106.393 120.95 C 105.21 120.95 104.25 119.99 104.25 118.807 L 104.25 114.093 C 104.25 112.91 105.21 111.95 106.393 111.95 Z" stroke="none" fill="#FFFFFF" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="Options">
+            <path d="M 107.25 102.95 L 111.5 102.95 C 113.156 102.95 114.5 104.294 114.5 105.95 L 114.5 105.95 C 114.5 107.606 113.156 108.95 111.5 108.95 L 107.25 108.95 C 105.594 108.95 104.25 107.606 104.25 105.95 L 104.25 105.95 C 104.25 104.294 105.594 102.95 107.25 102.95 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+          </g>
+          <g id="TeamA" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 139.385 105.45 L 149.615 105.45 C 150.655 105.45 151.5 106.295 151.5 107.335 L 151.5 116.565 C 151.5 117.605 150.655 118.45 149.615 118.45 L 139.385 118.45 C 138.345 118.45 137.5 117.605 137.5 116.565 L 137.5 107.335 C 137.5 106.295 138.345 105.45 139.385 105.45 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 132.239 108.95 L 156.761 108.95 C 158.273 108.95 159.5 110.07 159.5 111.45 L 159.5 111.45 C 159.5 112.83 158.273 113.95 156.761 113.95 L 132.239 113.95 C 130.727 113.95 129.5 112.83 129.5 111.45 L 129.5 111.45 C 129.5 110.07 130.727 108.95 132.239 108.95 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <g id="TeamB" stroke-linecap="square" stroke-miterlimit="3">
+            <path d="M 180.385 105.45 L 190.615 105.45 C 191.655 105.45 192.5 106.295 192.5 107.335 L 192.5 116.565 C 192.5 117.605 191.655 118.45 190.615 118.45 L 180.385 118.45 C 179.345 118.45 178.5 117.605 178.5 116.565 L 178.5 107.335 C 178.5 106.295 179.345 105.45 180.385 105.45 Z" stroke="none" fill="#FFFFFF"/>
+            <path d="M 173.239 109.45 L 197.761 109.45 C 199.273 109.45 200.5 110.57 200.5 111.95 L 200.5 111.95 C 200.5 113.33 199.273 114.45 197.761 114.45 L 173.239 114.45 C 171.727 114.45 170.5 113.33 170.5 111.95 L 170.5 111.95 C 170.5 110.57 171.727 109.45 173.239 109.45 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          </g>
+          <path d=" M 218.5 99.95 Q 221.2 100.55 223 99.95 L 223 123.95 Q 213.1 124.05 208.5 123.95 C 214.1 119.55 218.35 112.05 218.5 99.95 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="Pagination" stroke-linecap="square" stroke-miterlimit="3">
+          <path d="M 148.42 168 L 155.58 168 C 156.088 168 156.5 168.412 156.5 168.92 L 156.5 175.08 C 156.5 175.588 156.088 176 155.58 176 L 148.42 176 C 147.912 176 147.5 175.588 147.5 175.08 L 147.5 168.92 C 147.5 168.412 147.912 168 148.42 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 159.782 168 L 164.718 168 C 165.15 168 165.5 168.35 165.5 168.782 L 165.5 175.218 C 165.5 175.65 165.15 176 164.718 176 L 159.782 176 C 159.35 176 159 175.65 159 175.218 L 159 168.782 C 159 168.35 159.35 168 159.782 168 Z" stroke="none" fill="#FFFFFF"/>
+          <path d="M 159.782 168 L 164.718 168 C 165.15 168 165.5 168.35 165.5 168.782 L 165.5 175.218 C 165.5 175.65 165.15 176 164.718 176 L 159.782 176 C 159.35 176 159 175.65 159 175.218 L 159 168.782 C 159 168.35 159.35 168 159.782 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+          <path d="M 168.92 168 L 176.08 168 C 176.588 168 177 168.412 177 168.92 L 177 175.08 C 177 175.588 176.588 176 176.08 176 L 168.92 176 C 168.412 176 168 175.588 168 175.08 L 168 168.92 C 168 168.412 168.412 168 168.92 168 Z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+        </g>
+        <g id="CenterDiagonalButtons" fill="none" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3">
+          <path d=" M 106.25 42 L 115.25 42 L 110 51.6 L 101 51.6 L 106.25 42 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 115.25 42 L 124.75 42 L 119.5 51.6 L 110 51.6 L 115.25 42 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 124.75 42 L 173.25 42 L 168 51.6 L 119.5 51.6 L 124.75 42 Z " vector-effect="non-scaling-stroke"/>
+          <path d=" M 173.375 42 L 221.875 42 L 216.625 51.6 L 168.125 51.6 L 173.375 42 Z " vector-effect="non-scaling-stroke"/>
+        </g>
+        <line x1="100.5" y1="52" x2="223" y2="52" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        <rect x="100.5" y="42" width="122" height="137.5" transform="matrix(1,0,0,1,0,0)" fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+      </g>
+      <g id="RightLinks">
+        <g id="link1">
+          <path d=" M 256 191 C 256 187.964 258.464 185.5 261.5 185.5 C 264.536 185.5 267 187.964 267 191 C 267 194.036 264.536 196.5 261.5 196.5 C 258.464 196.5 256 194.036 256 191 Z " fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="link2">
+          <path d=" M 272.5 191 C 272.5 187.964 274.964 185.5 278 185.5 C 281.036 185.5 283.5 187.964 283.5 191 C 283.5 194.036 281.036 196.5 278 196.5 C 274.964 196.5 272.5 194.036 272.5 191 Z " fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+        <g id="link3">
+          <path d=" M 289 191 C 289 187.964 291.464 185.5 294.5 185.5 C 297.536 185.5 300 187.964 300 191 C 300 194.036 297.536 196.5 294.5 196.5 C 291.464 196.5 289 194.036 289 191 Z " fill="none" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+      </g>
+      <g id="TopRightLayout" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3">
+        <line x1="289" y1="12.5" x2="289" y2="27" vector-effect="non-scaling-stroke"/>
+        <line x1="238" y1="27" x2="306" y2="27" vector-effect="non-scaling-stroke"/>
+        <line x1="272.5" y1="12.5" x2="272.5" y2="27" vector-effect="non-scaling-stroke"/>
+        <line x1="256" y1="12.5" x2="256" y2="27" vector-effect="non-scaling-stroke"/>
+      </g>
+      <g id="Provider">
+        <path d="M 108.168 184 L 214.832 184 C 216.304 184 217.5 185.196 217.5 186.668 L 217.5 195.332 C 217.5 196.804 216.304 198 214.832 198 L 108.168 198 C 106.696 198 105.5 196.804 105.5 195.332 L 105.5 186.668 C 105.5 185.196 106.696 184 108.168 184 Z" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" stroke-miterlimit="3"/>
+        <line x1="122" y1="184" x2="122" y2="198" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        <g id="HSeparator">
+          <line x1="122" y1="191" x2="217.5" y2="191" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

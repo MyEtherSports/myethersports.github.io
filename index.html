@@ -1,0 +1,597 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115481724-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115481724-1');
+    </script>
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MyEtherSports - decentralized sportsbetting platform.">
+    <title>MyEtherSports</title>
+    <link rel='icon' href='./favicon.ico' type='image/x-icon'/ >
+    <link rel="stylesheet" href="css/dependencies/slideshow.css">
+    <link rel="stylesheet" href="css/dependencies/iziModal.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/dependencies/pure-min.css">
+ 
+    <!-- <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-" crossorigin="anonymous"> -->
+    
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="css/dependencies/grids-responsive-min.css">
+    <!--<![endif]-->
+    
+    <!-- <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="css/layouts/styles-old-ie.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="css/layouts/styles.css">
+        <!--<![endif]-->
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<div class="header" id="home">
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <div class="logo">
+<img width="120" alt="File Icons" class="pure-img-responsive" src="img/common/daico_logo.png" style="
+    margin-left: 302px; margin-top: 5px;
+    /* margin-top: 0; */
+">
+        </div>
+        
+        <div class="toggle"></div>
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item home"><a href="#home" class="pure-menu-link">Home</a></li>
+            <li class="pure-menu-item about"><a href="#about" class="pure-menu-link">About</a></li>
+            <li class="pure-menu-item features"><a href="#features" class="pure-menu-link">Features</a></li>
+            <li class="pure-menu-item daico"><a href="#daico" class="pure-menu-link">DAICO</a></li>
+            <li class="pure-menu-item whitepaper"><a href="#whitepaper" class="pure-menu-link">Whitepaper</a></li>
+            <li class="pure-menu-item team"><a href="#team" class="pure-menu-link">Team</a></li>
+            <li class="pure-menu-item roadmap"><a href="#roadmap" class="pure-menu-link">Roadmap</a></li>
+            <li class="pure-menu-item news"><a href="#news" class="pure-menu-link">News</a></li>
+        </ul>
+
+    </div>
+</div>
+
+<div class="splash-container" id="splash-container">
+    <div class="left_panel" id="left_panel">
+
+    </div>
+    <div class="splash">
+        <div class="diagonal diagonal2"></div>
+        <div class="diagonal"></div>
+        
+        <div class="left_container">
+        <div class="logo_container l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+            <img width="290" alt="File Icons" class="pure-img-responsive" src="img/common/myethersports_logo_bright.png">
+        </div>
+        
+        <div>
+        <!-- <h1 class="splash-head">Countdown</h1> -->
+        <ul class="countdown">
+            <li class="digits"> <span class="days">00</span>
+            <p class="days_ref">days</p>
+            </li>
+            <li class="seperator">:</li>
+            <li class="digits"> <span class="hours">00</span>
+            <p class="hours_ref">hours</p>
+            </li>
+            <li class="seperator">:</li>
+            <li class="digits"> <span class="minutes">00</span>
+            <p class="minutes_ref">minutes</p>
+            </li>
+            <li class="seperator">:</li>
+            <li class="digits"> <span class="seconds">00</span>
+            <p class="seconds_ref">seconds</p>
+            </li>
+        </ul>
+        <p class="splash-subhead" id="countdown_text">
+            Loading...
+        </p>
+        <p>
+            <a href="#about" class="pure-button pure-button-primary">Read more</a>
+            &nbsp;
+            <a href="#" class="pure-button pure-button-primary" onclick="PlaceOrder()" id="OrderButton" disabled>Place order</a>
+        </p>
+        </div>
+        
+        </div>
+    </div>
+    <!-- <div class="screen"><div class="screenshot"></div></div> -->
+    <!-- <div class="screen"> -->
+        
+  <div id="gallery" data-am-gallery> 
+    
+    <!-- Radio -->
+    <input type="radio" name="gallery" id="img-1" checked />
+    <input type="radio" name="gallery" id="img-2" />
+    <input type="radio" name="gallery" id="img-3" />
+    <input type="radio" name="gallery" id="img-4" />
+    
+    <!-- Images -->
+    <div class="images" >
+      <div class="image" style="background-image: url(./img/screen1.png);"></div>
+      <div class="image" style="background-image: url(./img/screen2.png);"></div>
+      <div class="image" style="background-image: url(./img/screen3.png);"></div>
+      <div class="image" style="background-image: url(./img/screen4.png);"></div>
+    </div>
+    
+    <!-- Navigation -->
+    <div class="navigation">
+      <label class="dot" for="img-1" id="dot1"></label>
+      <label class="dot" for="img-2" id="dot2"></label>
+      <label class="dot" for="img-3" id="dot3"></label>
+      <label class="dot" for="img-4" id="dot4"></label>
+    </div>
+  </div>
+        
+    <!-- </div> -->
+</div>
+
+<div class="content-wrapper">
+    
+    <section id="about" class="section">
+    <div class="ribbon l-box-lrg pure-g"  style="padding-top: 4em;">
+        
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">About OpenGenesis Platform</h2>
+
+            <p>
+                The OpenGenesis is the first generation of our sports betting platform that runs on Ethereum public ledger.
+                It's designed to be completely decentralized, self-governed and transparent, so that players can enjoy the freedom no other sportsbook can provide.
+                Content can be created by anyone who stakes GEN tokens, and is sorted by total amount staked which filters out undesired content.
+                It includes many social features such as ranking, automatic copying of bets, built-in mailbox, comments, and more. 
+                Launch is scheduled after Spring token distribution, in the beginning of Q2 2018.
+            </p>
+            
+        </div>
+        
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+            <div id="opengenesis_animation"></div>
+            <!-- <img width="320" alt="File Icons" class="pure-img-responsive" src="img/common/opengenesis.svg"> -->
+        </div>
+    </div>
+    </section>
+    
+    <section id="features" class="section">
+    <div class="separator"></div>
+    <div class="content">
+        <h2 class="content-head is-center">OpenGenesis platform features</h2>
+
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+
+                <h3 class="content-subhead">
+                    <i class="fa fa-eye"></i>
+                    <!-- <img src="img/common/decentralized.svg" width="32px"></img> -->
+                    Transparent
+                </h3>
+                <p>
+                    We are building a trustless, fully transparent and open platform for sportsbetting that will have nothing to hide.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <!-- <i class="fa fa-mobile"></i> -->
+                    <img src="img/common/decentralized.svg" width="24px"></img>
+                    Decentralized
+                </h3>
+                <p>
+                    With the help of blockchain solutions we design indestructible and serverless platform that is community driven and does not require middleman nor maintanence.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <i class="fa fa-money"></i>
+                    Earn by creating content
+                </h3>
+                <p>
+                    Token holders will be able to earn ether from our platform by creating matches, categories, leagues or submitting match results, taking their share of house margin.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+
+                <h3 class="content-subhead">
+                    <i class="fa fa-group"></i>
+                    Social features
+                </h3>
+                <p>
+                    Our betting platform includes social features such as built-in messaging and ranking. This allows users to communicate, subscribe and automatically copy bets from each other.
+                </p>
+            </div>
+        </div>
+        
+        <div class="pure-g">
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <i class="	fa fa-building-o"></i>
+                    We welcome organizations
+                </h3>
+                <p>
+                    Organizations will be able to profit from our platform by verifying their content. If a team wins a match, it's organization receives portion of house margin.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <i class="fa fa-balance-scale"></i>
+                    Fairly distributed
+                </h3>
+                <p>
+                    Our unique Initial Coin Distribuion (ICO) model is designed to minimize centralization by distributing voting power to as many hands as possible using daily distribution method.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <i class="fa fa-key"></i>
+                    Control your investment
+                </h3>
+                <p>
+                    Our one of a kind funding model ensures trust by allowing nearly full refunds of 90% of any amount purchased during the ICO at any given time after a distribution period is concluded.
+                </p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                <h3 class="content-subhead">
+                    <i class="fa fa-support"></i>
+                    "DAICO"
+                </h3>
+                <p>
+                    We believe our distribution model in on pair with the DAICO specification. It gives direct voting control as well as allows individuals to receive a refund without any voting.
+                </p>
+            </div>
+        </div>
+        
+    </div>
+    </section>
+    
+    <section id="daico" class="section">
+    <div class="separator"></div>
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+            <!-- <div id="daico_animation"></div> -->
+            <img width="320" alt="File Icons" class="pure-img-responsive" src="img/common/DAICO.svg">
+        </div>
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">"DAICO"</h2>
+
+            <p>
+                "DAICO" is a relatively new concept of combining the best of DAO and ICO into one self-governed atonomous funding mechanism. While this concept is still relatively new, we've been working on it for months, combining the best of both worlds.
+                Our smart contracts keep funds secure by storing ether in smaller instances each having it's own set of permissions that can be controlled on a function by function basis. We offer 90% refund and give voting privileges to anyone. We will set the example of how ICO should look like in this dark post-ICO age.
+            </p>
+            
+            <p>
+                <a href="#" class="pure-button pure-button-primary" onclick="PlaceOrder(true)" disabled>Participate</a>
+            </p>
+        </div>
+    </div>
+    </section>
+    
+
+    <section id="funding" class="section">
+    <div class="separator"></div>
+    <div class="content">
+        <h2 class="content-head is-center">Funds distribution</h2>
+        <div class="pure-g" id="charts">
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+                <canvas id="chart1"></canvas>
+                <p style="margin-left: 20%; margin-right:20%;">90% of contributed ether is refundable through smart contract. 10% goes towards platform development and team expansion.</p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+                <canvas id="chart2"></canvas>
+                <p style="margin-left: 20%; margin-right:20%;">90% tokens will be distributed in 4 seasonal distribution periods. Remainder will be released at a fixed daily rate.</p>
+            </div>
+            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+                <canvas id="chart3"></canvas>
+                <p style="margin-left: 20%; margin-right:20%;">Half of the budget will go towards platform development. 1/4 will be dedicated to marketing, while remaining will act as buffer (reserve).</p>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <section id="whitepaper" class="section">
+    <div class="separator"></div>
+    <div class="ribbon l-box-lrg pure-g">
+
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">Download "OpenGenesis whitepaper"</h2>
+
+            <p>
+                The OpenGenesis whitepaper covers in depth what the first-generation betting platform is all about, how it works, and what are our future plans to improve it. Second-generation platform whitepaper will be released around Q2 2018.
+            </p>
+            
+            
+            
+            <p>
+                <a href="./documents/whitepaper_pages.pdf" class="pure-button pure-button-primary" target="_blank">Download</a>
+                <!-- <a href="#" class="pure-button pure-button-primary">noBS1page</a> -->
+            </p>
+        </div>
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+            <div id="whitepaper_animation"></div>
+            <!-- <img width="200" alt="File Icons" class="pure-img-responsive" src="img/common/whitepaper.svg"> -->
+        </div>
+    </div>
+    </section>
+
+    <section id="team" class="section">
+    <div class="separator"></div>
+    <div class="content">
+        <h2 class="content-head is-center">Team</h2>
+        
+        
+<section id="team_members" class="section">
+		<div class="separator"></div>
+    <div class="team_member">
+        <a href="#" class="member-profile">
+            <div class="unhover_img">
+                <img src="img/avatar.jpg" alt="" />
+            </div>
+            <div class="hover_img">
+                <img src="img/avatar.jpg" alt="" />
+            </div>
+            <h4>Theo Hallenius</h4>
+            <span>Founder, Lead Software Engineer and Lead Designer</span>
+        </a>	
+        <ul>
+            <li><a href="https://twitter.com/TheoHallenius" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/theo-hallenius-608109a6/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://www.facebook.com/theo.oo.7" target="_blank"><i class="fa fa-facebook"></i></a></li>						
+        </ul>
+    </div>
+    <div class="separator"></div>
+    <div class="team_member">
+        <a href="#" class="member-profile">
+            <div class="unhover_img">
+                <img src="img/avatar2.jpg" alt="" />
+                <!-- <img src="img/common/tba.svg" alt=""/> -->
+                
+            </div>
+            <div class="hover_img">
+                
+                <img src="img/avatar2.jpg" alt="" />
+                <!-- <img src="img/common/tba.svg" alt="" /> -->
+                
+            </div>
+            <h4>Ariel Manzur</h4>
+            <span>Senior Software Developer &</span><br>
+            <p3>Game development industry advisor</p3>
+            <br>
+        </a>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/ariel-manzur-7b51263"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://www.facebook.com/ariel.manzur.7" target="_blank"><i class="fa fa-facebook"></i></a></li>						
+        </ul>
+    </div>
+    <br>
+    <div class="separator"></div>
+</section>
+
+
+    </div>
+    </section>
+    
+    <section id="roadmap" class="section">
+    <div class="separator"></div>
+    <div class="ribbon l-box-lrg pure-g" style="padding: 0em;">
+
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2  pure-u-lg-2-5" style="padding: 1.3em;margin: auto;">
+            <div id="roadmap_animation"></div>
+            <!-- <img width="450" alt="File Icons" class="pure-img-responsive" src="img/common/roadmap2.svg"> -->
+        </div>
+        <div class="pure-u-1 pure-u-lg-3-5">
+
+
+
+<div id="content">
+  <ul class="timeline">
+    <li class="event" data-date="Q2 2018">
+      <div class="member-infos">
+        <h1 class='member-title'>Finalizing the OpenGenesis platform</h1>
+        <h2 class="member-location">Summer GEN token distribution. Team expansion. Light marketing. Partially test opengenesis platform on Rinkeby test network.</h2>
+
+      </div>
+
+    </li>
+    <li id='fader' class="event" data-date="Q3 2018">
+      <div class="member-infos">
+        <h1 class='member-title'>OpenGenesis platform release. DappSDK R&D. </h1>
+        <h2 class="member-location ">OpenGenesis platform launch. Autumn token distribution. Begin development of DappSDK, which will be used to develop our second-generation betting platform.</h2>
+      </div>
+
+    </li>
+    <li class="event" data-date="Q4 2018">
+      <div class="member-infos">
+        <h1 class='member-title'>MyEtherSports 2.0 Testnet</h1>
+        <h2 class="member-location ">Testing of our custom designed chain. Organize a game jam to stress test our implementation. Last and final Winter distribution of the remaining tokens.</h2>
+
+      </div>
+
+    </li>
+    <li class="event" data-date="Q1 2019">
+      <div class="member-infos">
+        <h1 class='member-title'>MyEtherSports 2.0 Mainnet</h1>
+        <h2 class="member-location ">Launch of the second-generation betting platform. Allow transfer of GEN tokens from Ethereum to our custom designed chain using Atomic Swap technique.</h2>
+      </div>
+    </li>
+    
+    <li class="event" data-date="Q2 2019">
+      <div class="member-infos">
+        <h1 class='member-title'>OAuth and social integration</h1>
+        <h2 class="member-location ">Add optional sign-in methods that will allow mapping of social media account to user wallets and sign transactions directly within the app itself (similar to BlockOneID)</h2>
+      </div>
+    </li>
+    
+    <li class="event" data-date="Q3 2019">
+      <div class="member-infos">
+        <h1 class='member-title'>Heavy marketing campaign</h1>
+        <h2 class="member-location ">Road towards the ultimate platform that is ready for casual bettors. Invite famous sports organizations to verify themselves on our platform so they can receive their share.</h2>
+      </div>
+    </li>
+  </ul>
+</div>
+
+        </div>
+    </div>
+    </section>
+    
+    <section id="news" class="section">
+    <div class="separator"></div>
+    <div class="content">
+
+        <div class="pure-g">
+            
+<a class="twitter-timeline" href="https://twitter.com/myethersports?ref_src=twsrc%5Etfw">News from myethersports</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            
+        </div>
+        <br>
+
+    </div>
+    </div>
+
+    <div class="footer l-box is-center">
+        
+<div class="pure-g" style="width: 100%">
+    <div class="pure-u-1 pure-u-md-1-3">
+        <div style="float:left;">
+        <a href="./documents/terms_and_conditions.pdf" target="_blank">Terms and Conditions</a>
+        </div>
+    </div>
+    <div class="pure-u-1 pure-u-md-1-3">
+            <a href="https://www.crunchbase.com/organization/myethersports-srl" target="_blank">MyEtherSports</a> &copy; 2018
+    </div>
+    <div class="pure-u-1 pure-u-md-1-3">
+        <div class="links" style="float: right;">
+        <i class="social_link"><a target="_blank" href="https://www.facebook.com/myethersports"><div class="hovering facebook"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://twitter.com/myethersports"><div class="hovering twitter"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://t.me/myethersports"><div class="hovering telegram"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://steemit.com/@myethersports"><div class="hovering steemit"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://www.reddit.com/r/MyEtherSports/"><div class="hovering reddit"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://bitcointalk.org/index.php?topic=3259783.0"><div class="hovering bitcointalk"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://www.linkedin.com/company/myethersports"><div class="hovering linkedin"></div></a></i>
+        <i class="social_link"><a target="_blank" href="https://github.com/orgs/MyEtherSports"><div class="hovering github"></div></a></i>
+        </div>
+    </div>
+</div>
+        
+        
+
+
+<!-- end footer content -->
+    </div>
+
+
+</div>
+
+<div style="display:none">
+
+
+<div id="modal-tos">
+Terms Of Service
+</div>
+
+<div id="modal-country">
+<p>Sorry, but it appears that you are visiting this website from an IP address that comes from United States. </p>
+<p>Unfortunately we don't do business with U.S. Unless you are an accredited investor you are not allowed to legally participate in any ICO.</p>
+<p>We're not going to process your KYC so please do not send us your personal information nor are we going to refund you in full, in accordance with our <a href="./documents/terms_and_conditions.pdf" target="_blank">Terms and Conditions.</a></p>
+<p>If you are not a US resident and using VPN software to hide your IP, make sure to turn it off to proceed. </p>
+<p>You're on your own. </p>
+     <p> /Sincerely, MyEtherSports Team.</p>
+<button data-iziModal-close>I understand, I'm on my own now :(</button>
+</div>
+
+<div id="modal-country-rc">
+<p>Sorry, but it appears that you are visiting this website from an IP address that comes from Costa Rica. </p>
+<p>Unfortunately we don't do business locally, even though the company is operating from within Costa Rica.</p>
+<p>We're not going to process your KYC so please do not send us your personal information nor are we going to refund you in full, in accordance with our <a href="./documents/terms_and_conditions.pdf" target="_blank">Terms and Conditions.</a></p>
+<p>If you are not inside Costa Rica and using VPN software to hide your IP, make sure to turn it off to proceed. </p>
+     <p> /Sincerely, MyEtherSports Team.</p>
+<button data-iziModal-close>I understand, I'm on my own now :(</button>
+</div>
+
+
+<div id="modal-custom">
+        <button data-iziModal-close class="icon-close">x</button>
+
+        <section style="display:flex;flex-direction: column;">
+
+
+        <h2>Ether amount:</h2>
+        <div class="input-group spinner" data-trigger="spinner">
+          <input type="text" class="form-control text-center" value="1" step="0.01" data-rule="currency" id="deposit_ether_amount"> Eth
+          <div class="input-group-addon">
+            <a href="javascript:;" class="spin-up" data-spin="up" onclick="ScrollUp()"><i class="fa fa-caret-up"></i></a>
+            <a href="javascript:;" class="spin-down" data-spin="down" onclick="ScrollDown()"><i class="fa fa-caret-down"></i></a>
+          </div>
+        </div>
+
+            
+            <h2>Enter referral here if you have one.</h2>
+            <input type="text" placeholder="" id="deposit_referral">
+            <p>Note: Having a referral can only increase the amount of tokens you receive and not the other way around.</p>
+            
+            <label for="check"><input type="checkbox" name="checkbox_tos" id="check_tos" value="1"> I agree to the <a href="#">Terms and Conditions</a>.</label>
+            <label for="check"><input type="checkbox" name="checkbox_us" id="check_us" value="1"> I am not a U.S. resident and not using a VPN.</label>
+            <label for="check"><input type="checkbox" name="checkbox_sec" id="check_sec" value="1"> I am aware that GEN tokens are not securities.</label>
+            <footer>
+                <button data-iziModal-close>Cancel</button>
+                <button class="submit" id="confirm_buy" onclick="ConfirmBuyOrder()" disabled>Confirm Buy Order</button>      
+                
+                <p id="pending_tx">Your transaction is pending... tx hash will appear here shortly.</p>
+            </footer>
+        </section>
+</div>
+
+    
+</div>
+
+
+<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="js/jquery.downCount.js"></script>
+<script type="text/javascript" src="js/base64js.min.js"></script>
+<script type="text/javascript" src="js/ethjs.js"></script>
+<script type="text/javascript" src="js/ethjs-abi.js"></script>
+<script type="text/javascript" src='js/archer.min.js'></script>
+<script type="text/javascript" src="js/iziModal.min.js"></script>
+<script type="text/javascript" src="js/Chart.bundle.min.js"></script>
+<script type="text/javascript" src="js/jquery.spinner.js"></script>
+
+
+<script>JSCLASS_PATH = 'js/jsclass/min'</script>
+<script src="js/jsclass/min/loader-browser.js"></script>
+
+<script type="text/javascript" src="js/iscroll.js"></script>
+<script type="text/javascript" src="js/watch.min.js"></script>
+<script type="text/javascript" src="js/p-queue.js"></script>
+<script type="text/javascript" src="js/ethereum.js?ver=3"></script>
+<script type="text/javascript" src="js/classes.js?ver=3"></script>
+<script type="text/javascript" src="js/main.js?ver=8"></script>
+
+
+</body>
+</html>

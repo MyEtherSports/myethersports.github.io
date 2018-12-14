@@ -1,0 +1,421 @@
+{
+  "variables": [
+    {
+      "name": "Spawn",
+      "type": "number",
+      "keyFrames": {
+        "bb6c4aa7-0000-567a-ad9b-8f61c6168a12": 15,
+        "b38f252e-f473-5e0a-9f75-1b46d14c0a4e": 10,
+        "d0962e7d-3669-509f-9e5a-5466b57c2f7f": 20,
+        "f4c603e6-37bf-53c1-b38e-9902cb341210": 25,
+        "5b91bb0e-b031-5a73-a82b-43e030f0ca87": 30,
+        "5c42380e-9287-5b43-9e57-faea7da990b6": 35,
+        "0a86e4e9-6e16-5631-8a0a-c620e8d1946e": 40,
+        "8360c52d-516f-5282-9357-952f757fe100": 45,
+        "e88d5408-e615-56b6-8484-352bb04c399c": 44,
+        "9cf20638-5b62-5935-8fd3-369390506e54": 39,
+        "d7c724e0-167d-5d0f-b737-1c4866de7611": 34,
+        "dd96e400-8724-5670-9be2-4f1b59e6cac3": 29,
+        "acf031a7-9d9b-53a8-b55c-b1122ae05da3": 24,
+        "024bcef8-bd53-51ee-97f5-ae0d29443f98": 19
+      },
+      "minimum": 0,
+      "maximum": 100
+    }
+  ],
+  "transformations": [
+    {
+      "name": "scale_Combined",
+      "type": "scale",
+      "element": "Combined",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "bb6c4aa7-0000-567a-ad9b-8f61c6168a12": {
+          "name": "bb6c4aa7-0000-567a-ad9b-8f61c6168a12",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 1.18,
+            "y": 1.18
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "center"
+    },
+    {
+      "name": "opacity_Combined",
+      "type": "opacity",
+      "element": "Combined",
+      "variable": "Spawn",
+      "frames": {
+        "bb6c4aa7-0000-567a-ad9b-8f61c6168a12": {
+          "name": "bb6c4aa7-0000-567a-ad9b-8f61c6168a12",
+          "value": 1,
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": 0,
+          "transition": "linear"
+        }
+      },
+      "priority": 0
+    },
+    {
+      "name": "scale_row1",
+      "type": "scale",
+      "element": "row1",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "024bcef8-bd53-51ee-97f5-ae0d29443f98": {
+          "name": "024bcef8-bd53-51ee-97f5-ae0d29443f98",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "d0962e7d-3669-509f-9e5a-5466b57c2f7f": {
+          "name": "d0962e7d-3669-509f-9e5a-5466b57c2f7f",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "b38f252e-f473-5e0a-9f75-1b46d14c0a4e": {
+          "name": "b38f252e-f473-5e0a-9f75-1b46d14c0a4e",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "opacity_row1",
+      "type": "opacity",
+      "element": "row1",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": 0,
+          "transition": "linear"
+        },
+        "bb6c4aa7-0000-567a-ad9b-8f61c6168a12": {
+          "name": "bb6c4aa7-0000-567a-ad9b-8f61c6168a12",
+          "value": 1,
+          "transition": "linear"
+        },
+        "b38f252e-f473-5e0a-9f75-1b46d14c0a4e": {
+          "name": "b38f252e-f473-5e0a-9f75-1b46d14c0a4e",
+          "value": 0.67,
+          "transition": "linear"
+        }
+      },
+      "priority": 0
+    },
+    {
+      "name": "scale_row2",
+      "type": "scale",
+      "element": "row2",
+      "variable": "Spawn",
+      "frames": {
+        "acf031a7-9d9b-53a8-b55c-b1122ae05da3": {
+          "name": "acf031a7-9d9b-53a8-b55c-b1122ae05da3",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "f4c603e6-37bf-53c1-b38e-9902cb341210": {
+          "name": "f4c603e6-37bf-53c1-b38e-9902cb341210",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "bb6c4aa7-0000-567a-ad9b-8f61c6168a12": {
+          "name": "bb6c4aa7-0000-567a-ad9b-8f61c6168a12",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "scale_row3",
+      "type": "scale",
+      "element": "row3",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "dd96e400-8724-5670-9be2-4f1b59e6cac3": {
+          "name": "dd96e400-8724-5670-9be2-4f1b59e6cac3",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "5b91bb0e-b031-5a73-a82b-43e030f0ca87": {
+          "name": "5b91bb0e-b031-5a73-a82b-43e030f0ca87",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "d0962e7d-3669-509f-9e5a-5466b57c2f7f": {
+          "name": "d0962e7d-3669-509f-9e5a-5466b57c2f7f",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "scale_row4",
+      "type": "scale",
+      "element": "row4",
+      "variable": "Spawn",
+      "frames": {
+        "5c42380e-9287-5b43-9e57-faea7da990b6": {
+          "name": "5c42380e-9287-5b43-9e57-faea7da990b6",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "d7c724e0-167d-5d0f-b737-1c4866de7611": {
+          "name": "d7c724e0-167d-5d0f-b737-1c4866de7611",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "f4c603e6-37bf-53c1-b38e-9902cb341210": {
+          "name": "f4c603e6-37bf-53c1-b38e-9902cb341210",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "scale_row5",
+      "type": "scale",
+      "element": "row5",
+      "variable": "Spawn",
+      "frames": {
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "9cf20638-5b62-5935-8fd3-369390506e54": {
+          "name": "9cf20638-5b62-5935-8fd3-369390506e54",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "0a86e4e9-6e16-5631-8a0a-c620e8d1946e": {
+          "name": "0a86e4e9-6e16-5631-8a0a-c620e8d1946e",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        },
+        "5b91bb0e-b031-5a73-a82b-43e030f0ca87": {
+          "name": "5b91bb0e-b031-5a73-a82b-43e030f0ca87",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "scale_row6",
+      "type": "scale",
+      "element": "row6",
+      "variable": "Spawn",
+      "frames": {
+        "5c42380e-9287-5b43-9e57-faea7da990b6": {
+          "name": "5c42380e-9287-5b43-9e57-faea7da990b6",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "e88d5408-e615-56b6-8484-352bb04c399c": {
+          "name": "e88d5408-e615-56b6-8484-352bb04c399c",
+          "value": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "transition": "linear"
+        },
+        "$max": {
+          "name": "$max",
+          "value": null,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": {
+            "x": 0,
+            "y": 0
+          },
+          "transition": "linear"
+        },
+        "8360c52d-516f-5282-9357-952f757fe100": {
+          "name": "8360c52d-516f-5282-9357-952f757fe100",
+          "value": {
+            "x": 1,
+            "y": 1
+          },
+          "transition": "linear"
+        }
+      },
+      "priority": 110,
+      "axis": "both",
+      "center": "left"
+    },
+    {
+      "name": "opacity_BG",
+      "type": "opacity",
+      "element": "BG",
+      "variable": "Spawn",
+      "frames": {
+        "$max": {
+          "name": "$max",
+          "value": 0,
+          "transition": "step"
+        },
+        "$min": {
+          "name": "$min",
+          "value": 0,
+          "transition": "linear"
+        }
+      },
+      "priority": 0
+    }
+  ],
+  "elements": []
+}
