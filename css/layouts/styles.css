@@ -254,6 +254,9 @@ margin-bottom: 62px;
     /* opacity: 0.8; */
     font-size: larger;
     text-shadow: 2px 2px black;
+    margin: 0;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .logo_container {

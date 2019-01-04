@@ -99,7 +99,7 @@ if (master_contract) {
           var topic = window.web3.sha3("NewDistributionPeriod(uint256)");
           
           test_filter.watch().then((result) => {
-              InitCountdown(result[0].data[0]);
+              //InitCountdown(result[0].data[0]);
           });
       });
       
@@ -114,7 +114,7 @@ if (master_contract) {
     });
     */
     eth.getBlockByNumber('latest', true).then((block) => {
-      InitCountdown(dist_period_id[0], block);
+      //InitCountdown(dist_period_id[0], block);
     });
   
     //If injected web3 has a default account
@@ -143,16 +143,18 @@ else {
 _date.getHours() + ":" + _date.getMinutes() + ":" + + _date.getSeconds();
  
       
-      $('#countdown_text').text("Time left until upcoming distribution period of GEN tokens begins.");
+      //$('#countdown_text').text("Time left until upcoming distribution period of GEN tokens begins.");
       
 
       //Init countdown
+      /*
       $('.countdown').downCount({
           date: formatted_date,
           offset: -(new Date().getTimezoneOffset() / 60)
       }, function () {
           //TODO: change distribution and reset clock
       });
+      */
 }
 
 JS.require('JS.Hash', 'JS.Observable', function(Hash, Observable) {
